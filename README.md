@@ -42,6 +42,12 @@ Michael Fernando Silva de Albuquerque
 
 https://www.linkedin.com/in/michael-albuquerque-9443b21b9/
 
+# Agradecimento
+
+professor Mayk Brito da Codder e a DevMedia pela base da aplicação!
+
+
+
 
 
 
