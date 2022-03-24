@@ -32,6 +32,9 @@ git clone https://github.com/Beluhga/Campo-Minado
 # entrar na pasta do projeto front end web
 cd Campo-Minado
 
+# instalar dependências
+npm install
+
 # executar o projeto
 Expo start
 ```
