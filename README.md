@@ -29,7 +29,7 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/Beluhga/Campo-Minado
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto Mobile
 cd Campo-Minado
 
 # instalar dependências
